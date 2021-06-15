@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% if request.user.is_authenticated %}
+    <div id='ShayariMate-feed'></div>
+{% else %}
+    <div id='tweetme'></div>
+{% endif %}
+
+{% endblock content %}
