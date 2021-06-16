@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     
     'accounts',  
     'profiles',
-    'posts'  
+    'posts',
+    'drf_yasg' 
 ]
 
 MIDDLEWARE = [
