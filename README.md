@@ -50,7 +50,7 @@
 
 ### Running server
 
-* Change directory to **FusionIIIT** `cd FusionIIIT`
+* Change directory to **ShayariMate** `cd ShayariMate`
 * Run the server `python manage.py runserver`
 
 
